@@ -34,12 +34,6 @@ return (
         Vote React ⚛️
         </button>   
     </div>
-
-    <div>
-      <h2>Vue: {voteTotals.vue}</h2>
-      <button
-        style={{ padding: '10px 20px', fontSi}}
-    </div>
     </div>
   </div>
 )
