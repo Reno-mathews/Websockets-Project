@@ -46,7 +46,7 @@ return (
     </div>
     </div>
 
-    <p style={{ color: '#665'}}>Open this in multiple tabs to see the numbers sync live!</p>
+    <p style={{ color: '#665'}}>Open this in multiple tabs to see the numbers sync live</p>
   </div>
 )
 
